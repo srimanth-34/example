@@ -1,0 +1,781 @@
+﻿    1. The word "happy" is an example of which part of speech?
+        a) Noun b) Verb c) Adjective d) Adverb
+    2. Identify the part of speech for the word "quickly."
+        a) Noun b) Verb c) Adjective d) Adverb
+    3. Which of the following is a pronoun? 
+       a) Jump b) She c) Running d) Beautiful
+    4. In the sentence "The cat is on the roof," what is the part of speech of "roof"? 
+       a) Noun b) Verb c) Adjective d) Adverb
+    5. Choose the correct part of speech for the word "swimming."
+        a) Noun b) Verb c) Adjective d) Adverb
+    6. Identify the conjunction in the sentence: "I like both tea and coffee."
+        a) Tea b) And c) Like d) Both
+    7. What part of speech is the word "under" in the sentence "The book is under the table"? 
+       a) Noun b) Verb c) Adjective d) Preposition
+    8. "Happiness" is an example of which part of speech? 
+       a) Noun b) Verb c) Adjective d) Adverb
+    9. Identify the part of speech for the word "joyfully." 
+       a) Noun b) Verb c) Adjective d) Adverb
+    10. Which of the following is a preposition?
+        a) Jump b) With c) Happy d) Running
+    11. In the sentence "She sings beautifully," what is the part of speech of "beautifully"? 
+       a) Noun b) Verb c) Adjective d) Adverb
+    12. What part of speech is the word "and" in the sentence "John and Mary went to the store"? a) Noun b) Verb c) Conjunction d) Adverb
+    13. Identify the interjection in the sentence: "Wow, that was amazing!" 
+       a) Wow b) That c) Was d) Amazing
+    14. Which part of speech is the word "run" in the sentence "I run every morning"? 
+       a) Noun b) Verb c) Adjective d) Adverb
+    15. Choose the correct part of speech for the word "red." 
+       a) Noun b) Verb c) Adjective d) Adverb
+    16. "They" is an example of which part of speech? 
+       a) Noun b) Pronoun c) Adjective d) Adverb
+    17. Identify the part of speech for the word "loudly." 
+       a) Noun b) Verb c) Adjective d) Adverb
+    18. What part of speech is the word "between" in the sentence "The cat is between the two chairs"? 
+       a) Noun b) Verb c) Adjective d) Preposition
+    19. "Jumping" is an example of which part of speech?
+        a) Noun b) Verb c) Adjective d) Adverb
+    20. In the sentence "The sun sets in the west," what is the part of speech of "west"? 
+       a) Noun b) Verb c) Adjective d) Adverb
+
+
+
+1. Which sentence is in the present simple tense?
+   a) She will go to the store.
+   b) They are playing soccer.
+   c) He plays the piano every day.
+   d) I had finished my homework.
+
+2. Choose the correct present tense form of the verb: "to eat."
+   a) Ate
+   b) Eating
+   c) Eaten
+   d) Eats
+
+3. What is the present continuous tense of the sentence: "She writes a letter."
+   a) She wrote a letter.
+   b) She is writing a letter.
+   c) She has written a letter.
+   d) She will write a letter.
+
+4. Identify the sentence in the present perfect tense.
+   a) They will visit us tomorrow.
+   b) We have visited that museum.
+   c) I am going to the party.
+   d) He swims every morning.
+
+5. Choose the correct present tense form of the verb: "to run."
+   a) Ran
+   b) Running
+   c) Run
+   d) Runs
+
+6. Which sentence is in the present simple tense?
+   a) They were playing outside.
+   b) I will visit my grandparents.
+   c) He eats breakfast every day.
+   d) She has finished her book.
+
+7. What is the present continuous tense of the sentence: "I read a book."
+   a) I am reading a book.
+   b) I will read a book.
+   c) I have read a book.
+   d) I read books.
+
+8. Identify the sentence in the present perfect continuous tense.
+   a) They have finished their homework.
+   b) We have been studying for hours.
+   c) She will cook dinner.
+   d) I swim in the pool.
+
+9. Choose the correct present tense form of the verb: "to dance."
+   a) Danced
+   b) Dancing
+   c) Dances
+   d) Dance
+
+10. Which sentence is in the present simple tense?
+    a) She is studying for the exam.
+    b) I will visit London next summer.
+    c) The sun rises in the east.
+    d) They have traveled to many countries.
+
+11. What is the present continuous tense of the sentence: "They play video games."
+    a) They have played video games.
+    b) They will play video games.
+    c) They are playing video games.
+    d) They played video games.
+
+12. Identify the sentence in the present perfect tense.
+    a) We swim in the ocean.
+    b) I have visited Paris.
+    c) She will sing at the concert.
+    d) He reads a book every night.
+
+13. Choose the correct present tense form of the verb: "to speak."
+    a) Speaking
+    b) Spoken
+    c) Speaks
+    d) Spoke
+
+14. Which sentence is in the present simple tense?
+    a) I am working on a project.
+    b) They traveled to Japan last year.
+    c) The train is arriving at 3 PM.
+    d) He writes poetry.
+===
+15. What is the present continuous tense of the sentence: "She teaches English."
+    a) She is teaching English.
+    b) She has taught English.
+    c) She will teach English.
+    d) She taught English.
+
+16. Identify the sentence in the present perfect continuous tense.
+    a) I have finished my lunch.
+    b) They have been waiting for an hour.
+    c) We will go to the park.
+    d) She runs every morning.
+
+17. Choose the correct present tense form of the verb: "to sleep."
+    a) Sleeps
+    b) Slept
+    c) Sleeping
+    d) Sleep
+
+18. Which sentence is in the present simple tense?
+    a) I will bake a cake for the party.
+    b) They have seen that movie.
+    c) The sun sets in the evening.
+    d) She is singing on stage.
+
+19. What is the present continuous tense of the sentence: "He writes a letter."
+    a) He has written a letter.
+    b) He is writing a letter.
+    c) He wrote a letter.
+    d) He will write a letter.
+
+20. Identify the sentence in the present perfect tense.
+    a) I have read that book.
+    b) We will go shopping.
+    c) They swim in the pool.
+d) She played the piano.
+
+Past tense
+
+1. Which sentence is in the past simple tense?
+   a) She is going to the store.
+   b) They played soccer yesterday.
+   c) I am eating lunch.
+   d) He will visit next week.
+
+2. Choose the correct past tense form of the verb: "to swim."
+   a) Swims
+   b) Swimming
+   c) Swam
+   d) Swim
+
+3. What is the past continuous tense of the sentence: "I write a story."
+   a) I have written a story.
+   b) I was writing a story.
+   c) I will write a story.
+   d) I write stories.
+
+4. Identify the sentence in the past perfect tense.
+   a) We eat pizza every Friday.
+   b) They had finished their homework before the movie.
+   c) She is singing a song.
+   d) He runs in the park.
+
+5. Choose the correct past tense form of the verb: "to dance."
+   a) Danced
+   b) Dancing
+   c) Dances
+   d) Dance
+
+6. Which sentence is in the past simple tense?
+   a) I will travel to Paris.
+   b) They were playing outside.
+   c) She has finished her book.
+   d) The sun rises in the east.
+
+7. What is the past continuous tense of the sentence: "He reads a book."
+   a) He was reading a book.
+   b) He had read a book.
+   c) He will read a book.
+   d) He reads books.
+
+8. Identify the sentence in the past perfect continuous tense.
+   a) I ate breakfast.
+   b) They had been waiting for hours.
+   c) She will cook dinner.
+   d) We swim in the pool.
+
+9. Choose the correct past tense form of the verb: "to play."
+   a) Play
+   b) Played
+   c) Playing
+   d) Plays
+
+10. Which sentence is in the past simple tense?
+    a) She is studying for the exam.
+    b) I traveled to London last summer.
+    c) The train is arriving at 3 PM.
+    d) They have traveled to many countries.
+
+11. What is the past continuous tense of the sentence: "We play video games."
+    a) We had played video games.
+    b) We played video games.
+    c) We were playing video games.
+    d) We will play video games.
+
+12. Identify the sentence in the past perfect tense.
+    a) We swim in the ocean.
+    b) I had visited Paris.
+    c) She will sing at the concert.
+    d) He reads a book every night.
+
+13. Choose the correct past tense form of the verb: "to speak."
+    a) Spoke
+    b) Spoken
+    c) Speaking
+    d) Speaks
+
+14. Which sentence is in the past simple tense?
+    a) I am working on a project.
+    b) They traveled to Japan last year.
+    c) The sun is shining brightly.
+    d) He writes poetry.
+
+15. What is the past continuous tense of the sentence: "She teaches English."
+    a) She was teaching English.
+    b) She taught English.
+    c) She had taught English.
+    d) She will teach English.
+
+16. Identify the sentence in the past perfect continuous tense.
+    a) I have finished my lunch.
+    b) They have been waiting for an hour.
+    c) We will go to the park.
+    d) She runs every morning.
+
+17. Choose the correct past tense form of the verb: "to sleep."
+    a) Sleeps
+    b) Slept
+    c) Sleeping
+    d) Sleep
+
+18. Which sentence is in the past simple tense?
+    a) I will bake a cake for the party.
+    b) They have seen that movie.
+    c) The sun sets in the evening.
+    d) She is singing on stage.
+
+19. What is the past continuous tense of the sentence: "He writes a letter."
+    a) He was writing a letter.
+    b) He had written a letter.
+    c) He will write a letter.
+    d) He wrote a letter.
+
+20. Identify the sentence in the past perfect tense.
+    a) I have read that book.
+    b) We will go shopping.
+    c) They swim in the pool.
+    d) She played the piano.
+
+FUTURE 
+
+
+1. Which sentence is in the future simple tense?
+   a) She is going to the store.
+   b) They will play soccer tomorrow.
+   c) I ate lunch.
+   d) He visited last week.
+
+2. Choose the correct future tense form of the verb: "to swim."
+   a) Swims
+   b) Swimming
+   c) Swam
+   d) Will swim
+
+3. What is the future continuous tense of the sentence: "I write a story."
+   a) I will have written a story.
+   b) I will be writing a story.
+   c) I will write a story.
+   d) I write stories.
+
+4. Identify the sentence in the future perfect tense.
+   a) We will eat pizza every Friday.
+   b) They will have finished their homework before the movie.
+   c) She is singing a song.
+   d) He runs in the park.
+
+5. Choose the correct future tense form of the verb: "to dance."
+   a) Danced
+   b) Dancing
+   c) Dances
+   d) Will dance
+
+6. Which sentence is in the future simple tense?
+   a) I traveled to Paris.
+   b) They will be playing outside.
+   c) She has finished her book.
+   d) The sun rises in the east.
+
+7. What is the future continuous tense of the sentence: "He reads a book."
+   a) He will be reading a book.
+   b) He had read a book.
+   c) He will read a book.
+   d) He reads books.
+
+8. Identify the sentence in the future perfect continuous tense.
+   a) I will eat breakfast.
+   b) They will have been waiting for hours.
+   c) She cooks dinner.
+   d) We swim in the pool.
+
+
+9. Choose the correct future tense form of the verb: "to play."
+   a) Play
+   b) Played
+   c) Playing
+   d) Will play
+
+10. Which sentence is in the future simple tense?
+    a) She is studying for the exam.
+    b) I traveled to London last summer.
+    c) The train is arriving at 3 PM.
+    d) They will travel to many countries.
+
+11. What is the future continuous tense of the sentence: "We play video games."
+    a) We will play video games.
+    b) We will be playing video games.
+    c) We played video games.
+    d) We have played video games.
+
+12. Identify the sentence in the future perfect tense.
+    a) We swim in the ocean.
+    b) I will have visited Paris.
+    c) She will sing at the concert.
+    d) He reads a book every night.
+
+13. Choose the correct future tense form of the verb: "to speak."
+    a) Spoke
+    b) Spoken
+    c) Speaking
+    d) Will speak
+
+14. Which sentence is in the future simple tense?
+    a) I am working on a project.
+    b) They will travel to Japan next year.
+    c) The sun is shining brightly.
+    d) He writes poetry.
+
+15. What is the future continuous tense of the sentence: "She teaches English."
+    a) She will teach English.
+    b) She will be teaching English.
+    c) She taught English.
+    d) She teaches English.
+
+16. Identify the sentence in the future perfect continuous tense.
+    a) I will finish my lunch.
+    b) They will have been waiting for an hour.
+    c) We will go to the park.
+    d) She runs every morning.
+
+17. Choose the correct future tense form of the verb: "to sleep."
+    a) Sleeps
+    b) Slept
+    c) Sleeping
+    d) Will sleep
+
+18. Which sentence is in the future simple tense?
+    a) I will bake a cake for the party.
+    b) They have seen that movie.
+    c) The sun sets in the evening.
+    d) She is singing on stage.
+
+19. What is the future continuous tense of the sentence: "He writes a letter."
+    a) He will be writing a letter.
+    b) He wrote a letter.
+    c) He will write a letter.
+    d) He is writing a letter.
+
+20. Identify the sentence in the future perfect tense.
+    a) I will have read that book.
+    b) We will go shopping.
+    c) They swim in the pool.
+d) She played the piano.
+
+
+positive degree and comparatives:
+
+1. Choose the correct positive degree of the adjective: "happy."
+   a) Happiest
+   b) Happy
+   c) More happy
+   d) Happyer
+
+2. Identify the positive degree of the adverb: "quickly."
+   a) Quickliest
+   b) Quick
+   c) More quick
+   d) Quicker
+
+3. What is the positive degree of the adjective: "beautiful"?
+   a) More beautiful
+   b) Beautifuler
+   c) Beautiful
+   d) Beautifuller
+
+4. Choose the correct positive degree of the adjective: "intelligent."
+   a) More intelligent
+   b) Intelligentest
+   c) Intelligent
+   d) Intelligenter
+
+5. Identify the positive degree of the adverb: "easily."
+   a) More easily
+   b) Easyer
+   c) Easiest
+   d) Easy
+
+6. What is the positive degree of the adjective: "strong"?
+   a) Stronger
+   b) Strongest
+   c) Strong
+   d) More strong
+
+7. Choose the correct positive degree of the adjective: "tall."
+   a) Taller
+   b) Tallest
+   c) More tall
+   d) Talliest
+
+8. Identify the positive degree of the adverb: "loudly."
+   a) Loud
+   b) Louder
+   c) Loudest
+   d) More loudly
+
+9. What is the positive degree of the adjective: "happy"?
+   a) Happyer
+   b) More happy
+   c) Happier
+   d) Happyest
+
+10. Choose the correct positive degree of the adjective: "large."
+    a) Largely
+    b) Larger
+    c) Largest
+    d) More large
+
+11. Identify the positive degree of the adverb: "carefully."
+    a) Careful
+    b) Carefuller
+    c) More carefully
+    d) Carefulest
+
+12. What is the positive degree of the adjective: "famous"?
+    a) Famouser
+    b) More famous
+    c) Famous
+    d) Famest
+
+13. Choose the correct positive degree of the adjective: "bright."
+    a) Briter
+    b) Brightest
+    c) More bright
+    d) Bright
+
+14. Identify the positive degree of the adverb: "quick."
+    a) Quickest
+    b) Quick
+    c) More quick
+    d) Quicklier
+
+15. What is the positive degree of the adjective: "cold"?
+    a) Coldest
+    b) Coldly
+    c) More cold
+    d) Cold
+
+16. Choose the correct positive degree of the adjective: "happy."
+    a) Happier
+    b) Happyer
+    c) More happy
+    d) Happiest
+
+17. Identify the positive degree of the adverb: "late."
+    a) Later
+    b) Latest
+    c) More late
+    d) Late
+
+18. What is the positive degree of the adjective: "heavy"?
+    a) Heavyest
+    b) More heavy
+    c) Heavy
+    d) Heavier
+
+19. Choose the correct positive degree of the adjective: "expensive."
+    a) Expensiver
+    b) Expensive
+    c) More expensive
+    d) Expensivest
+
+20. Identify the positive degree of the adverb: "eagerly."
+    a) Eager
+    b) More eager
+    c) Eagerest
+    d) Eagerlyest
+
+
+
+
+comparative degree and comparatives:
+
+1. Choose the correct comparative degree of the adjective: "tall."
+   a) Taller
+   b) Talliest
+   c) More tall
+   d) Tallier
+
+2. Identify the comparative degree of the adverb: "quickly."
+   a) Quickliest
+   b) Quick
+   c) More quick
+   d) Quicker
+
+3. What is the comparative degree of the adjective: "beautiful"?
+   a) More beautiful
+   b) Beautifuler
+   c) Beautifully
+   d) Beautifuller
+
+4. Choose the correct comparative degree of the adjective: "intelligent."
+   a) More intelligent
+   b) Intelligentest
+   c) Intelligently
+   d) Intelligenter
+
+5. Identify the comparative degree of the adverb: "easily."
+   a) More easily
+   b) Easyer
+   c) Easiest
+   d) Easy
+
+6. What is the comparative degree of the adjective: "strong"?
+   a) Stronger
+   b) Strongest
+   c) Strongly
+   d) More strong
+
+7. Choose the correct comparative degree of the adjective: "happy."
+   a) Happyer
+   b) Happier
+   c) Happiest
+   d) More happy
+
+8. Identify the comparative degree of the adverb: "loudly."
+   a) Loudlyer
+   b) Louder
+   c) Loudest
+   d) More loudly
+
+9. What is the comparative degree of the adjective: "happy"?
+   a) Happyer
+   b) More happy
+   c) Happier
+   d) Happyest
+
+10. Choose the correct comparative degree of the adjective: "large."
+    a) Largely
+    b) Larger
+    c) Largest
+    d) More large
+
+11. Identify the comparative degree of the adverb: "carefully."
+    a) Carefuller
+    b) More carefully
+    c) Carefullyest
+    d) Carefullest
+
+12. What is the comparative degree of the adjective: "famous"?
+    a) Famouser
+    b) More famous
+    c) Famously
+    d) Famest
+
+13. Choose the correct comparative degree of the adjective: "bright."
+    a) Briter
+    b) Brightest
+    c) More bright
+    d) Brighter
+
+14. Identify the comparative degree of the adverb: "quick."
+    a) Quickest
+    b) Quick
+    c) More quick
+    d) Quicklier
+
+15. What is the comparative degree of the adjective: "cold"?
+    a) Coldest
+    b) Coldly
+    c) More cold
+    d) Cold
+
+16. Choose the correct comparative degree of the adjective: "happy."
+    a) Happier
+    b) Happyer
+    c) Happiest
+    d) More happy
+
+17. Identify the comparative degree of the adverb: "late."
+    a) Later
+    b) Latest
+    c) More late
+    d) Late
+
+18. What is the comparative degree of the adjective: "heavy"?
+    a) Heavyest
+    b) More heavy
+    c) Heavier
+    d) Heavyly
+
+19. Choose the correct comparative degree of the adjective: "expensive."
+    a) Expensiver
+    b) Expensive
+    c) More expensive
+    d) Expensivest
+
+20. Identify the comparative degree of the adverb: "eagerly."
+    a) Eagerlyer
+    b) More eager
+    c) Eagerest
+    d) Eagerlyest
+
+ superlative degree and comparatives:
+
+1. Choose the correct superlative degree of the adjective: "tall."
+   a) Tallest
+   b) Talliest
+   c) More tall
+   d) Tallier
+
+2. Identify the superlative degree of the adverb: "quickly."
+   a) Quickliest
+   b) Quick
+   c) More quick
+   d) Quickest
+
+3. What is the superlative degree of the adjective: "beautiful"?
+   a) More beautiful
+   b) Beautifuler
+   c) Beautifully
+   d) Most beautiful
+
+4. Choose the correct superlative degree of the adjective: "intelligent."
+   a) Most intelligent
+   b) Intelligentest
+   c) Intelligently
+   d) Intelligenter
+
+5. Identify the superlative degree of the adverb: "easily."
+   a) More easily
+   b) Easyer
+   c) Easiest
+   d) Easy
+
+6. What is the superlative degree of the adjective: "strong"?
+   a) Stronger
+   b) Strongest
+   c) Strongly
+   d) Most strong
+
+7. Choose the correct superlative degree of the adjective: "happy."
+   a) Happyer
+   b) Happiest
+   c) More happy
+   d) Happyest
+
+8. Identify the superlative degree of the adverb: "loudly."
+   a) Loudlyer
+   b) Louder
+   c) Loudest
+   d) Most loudly
+
+9. What is the superlative degree of the adjective: "happy"?
+   a) Happyer
+   b) More happy
+   c) Happier
+   d) Happiest
+
+10. Choose the correct superlative degree of the adjective: "large."
+    a) Largely
+    b) Larger
+    c) Largest
+    d) More large
+
+11. Identify the superlative degree of the adverb: "carefully."
+    a) Carefuller
+    b) More carefully
+    c) Carefullyest
+    d) Carefullest
+
+12. What is the superlative degree of the adjective: "famous"?
+    a) Famouser
+    b) More famous
+    c) Famously
+    d) Most famous
+
+13. Choose the correct superlative degree of the adjective: "bright."
+    ) Briter
+    b) Brightest
+    c) More bright
+    d) Brighter
+
+14. Identify the superlative degree of the adverb: "quick."
+    a) Quickest
+    b) Quick
+    c) More quick
+    d) Quickliest
+
+15. What is the superlative degree of the adjective: "cold"?
+    a) Coldest
+    b) Coldly
+    c) More cold
+    d) Cold
+
+16. Choose the correct superlative degree of the adjective: "happy."
+    a) Happier
+    b) Happyer
+    c) Happiest
+    d) More happy
+
+17. Identify the superlative degree of the adverb: "late."
+    a) Later
+    b) Latest
+    c) More late
+    d) Latestly
+
+18. What is the superlative degree of the adjective: "heavy"?
+    a) Heavyest
+    b) More heavy
+    c) Heavier
+    d) Heaviest
+
+19. Choose the correct superlative degree of the adjective: "expensive."
+    a) Expensiver
+    b) Expensive
+    c) More expensive
+    d) Most expensive
+
+20. Identify the superlative degree of the adverb: "eagerly."
+    a) Eagerlyer
+    b) More eager
+    c) Eagerest
+    d) Most eagerly
+
+
+
+
